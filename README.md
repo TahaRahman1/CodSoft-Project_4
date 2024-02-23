@@ -1,4 +1,4 @@
-# Task Manager
+# Task Manager (To-do-list)
 
 ## Overview
 Task Manager is a simple command-line program written in C++. It allows users to manage tasks by providing functionalities such as adding tasks to a list, viewing tasks with their statuses, marking tasks as completed, and removing tasks from the list.
